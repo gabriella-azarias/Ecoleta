@@ -1,0 +1,10 @@
+*{font-family: 'Roboto', sans-serif;text-decoration: none;margin: 0;
+padding: 0;}
+
+:root{ --title-color:#322153;
+        --primary-color: #34cb79;}
+
+body{
+    background:#f0f0f5;
+}
+
